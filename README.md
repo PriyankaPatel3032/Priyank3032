@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**Priyank3032/Priyank3032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <samp>&gt; Hi there, I'm <a >Priyanka Patel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Talking about Personal Stuffs:**
+
+- 🔭 I’m currently working on something cool.
+- 👨‍💻 I am passionate about Android and Flutter & I enjoy learning new things.
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Android Project.
+- 📫 How to reach me priyanka3032@gmail.com.
+- 😄 Ask me about anything, I am happy to help.
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyank3032&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyank3032&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+**Languages and Tools**
+<div>
+  <img src="https://www.freeiconspng.com/thumbs/android-icon/android-robot-icon-22.png" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" title="Kotlin" alt="Kotlin" width="30" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://i.pinimg.com/originals/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  
+</div>
